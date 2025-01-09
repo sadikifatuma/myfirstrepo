@@ -1,0 +1,3 @@
+This here is text that populates my first repository
+file that I am going to use for getting famiiliar with
+some git commands
